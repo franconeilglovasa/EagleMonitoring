@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N+i+N6+VS1M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Franco\\source\\repos\\EagleMonitoring\\EagleMonitoring.Api\\EagleMonitoring.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Franco\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\Franco\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

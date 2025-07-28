@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/EagleMonitoring.Api/obj/Debug/net9.0/EagleMonitoring.Api.AssemblyInfo.cs
+/EagleMonitoring.Api/obj/Debug/net9.0/EagleMonitoring.Api.AssemblyInfoInputs.cache
+/EagleMonitoring.Api/obj/Debug/net9.0/EagleMonitoring.Api.assets.cache
+/EagleMonitoring.Api/obj/Debug/net9.0/EagleMonitoring.Api.csproj.AssemblyReference.cache
+/EagleMonitoring.Api/obj/Debug/net9.0/EagleMonitoring.Api.GeneratedMSBuildEditorConfig.editorconfig
+/EagleMonitoring.Api/obj/Debug/net9.0/rpswa.dswa.cache.json
+/EagleMonitoring.Api/obj/Debug/net9.0/staticwebassets.removed.txt
+/EagleMonitoring.Api/obj/EagleMonitoring.Api.csproj.nuget.dgspec.json
+/EagleMonitoring.Api/obj/EagleMonitoring.Api.csproj.nuget.g.props
+/EagleMonitoring.Api/obj/project.assets.json
+/EagleMonitoring.Api/obj/project.nuget.cache
+/EagleMonitoring.Api/EagleMonitoring.Api.csproj.user

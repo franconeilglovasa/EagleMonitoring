@@ -41,3 +41,63 @@ EagleMonitoring.Api/bin/Debug/net9.0/Microsoft.OpenApi.dll
 /EagleMonitoring.Api/EagleMonitoring.Api.csproj.user
 >>>>>>> 1b9eb0c775ebc311324d67d3fcd6465977f330dc
 /EagleMonitoring.Api/obj/Debug/net9.0/EagleMonitoring.Api.GeneratedMSBuildEditorConfig.editorconfig
+# Build results
+bin/
+obj/
+out/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Visual Studio / VSCode
+.vs/
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Dotnet stuff
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Publish outputs
+*.publishsettings
+publish/
+wwwroot/dist/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Azure
+*.azurePubxml
+
+# Others
+node_modules/
+dist/
+
+*.db
+*.db-shm
+*.db-wal

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .vs/EagleMonitoring/CopilotIndices/17.14.1091.29919/CodeChunks.db
 .vs/EagleMonitoring/CopilotIndices/17.14.1091.29919/SemanticSymbols.db
 .vs/EagleMonitoring/DesignTimeBuild/.dtbcache.v2
@@ -20,3 +21,23 @@ EagleMonitoring.Api/bin/Debug/net9.0/EagleMonitoring.Api.staticwebassets.endpoin
 EagleMonitoring.Api/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
 EagleMonitoring.Api/bin/Debug/net9.0/Microsoft.OpenApi.dll
 /.vs/EagleMonitoring
+=======
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/EagleMonitoring.Api/obj/Debug/net9.0/EagleMonitoring.Api.AssemblyInfo.cs
+/EagleMonitoring.Api/obj/Debug/net9.0/EagleMonitoring.Api.AssemblyInfoInputs.cache
+/EagleMonitoring.Api/obj/Debug/net9.0/EagleMonitoring.Api.assets.cache
+/EagleMonitoring.Api/obj/Debug/net9.0/EagleMonitoring.Api.csproj.AssemblyReference.cache
+/EagleMonitoring.Api/obj/Debug/net9.0/EagleMonitoring.Api.GeneratedMSBuildEditorConfig.editorconfig
+/EagleMonitoring.Api/obj/Debug/net9.0/rpswa.dswa.cache.json
+/EagleMonitoring.Api/obj/Debug/net9.0/staticwebassets.removed.txt
+/EagleMonitoring.Api/obj/EagleMonitoring.Api.csproj.nuget.dgspec.json
+/EagleMonitoring.Api/obj/EagleMonitoring.Api.csproj.nuget.g.props
+/EagleMonitoring.Api/obj/project.assets.json
+/EagleMonitoring.Api/obj/project.nuget.cache
+/EagleMonitoring.Api/EagleMonitoring.Api.csproj.user
+>>>>>>> 1b9eb0c775ebc311324d67d3fcd6465977f330dc
+/EagleMonitoring.Api/obj/Debug/net9.0/EagleMonitoring.Api.GeneratedMSBuildEditorConfig.editorconfig
